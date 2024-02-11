@@ -17,7 +17,7 @@
 <h2> 🤳 Connect with me:</h2>
 
 <img align="left" alt="MatthewRice | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-https://linkedin.com/in/MatthewRice
+https://www.linkedin.com/in/%F0%9F%92%BBmatthew-rice-389271267/
 
 
 -->
