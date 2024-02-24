@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Professional Projects:</h2>
 
 - <b>Azure Cloud Project</b>
-  - [Created a Live SOC / Honeynet in Azure](https://github.com/MatthewCyberTest/Azure-SOC/tree/main
+  - [Created a Live SOC / Honeynet in Azure] https://github.com/MatthewCyberTest/Azure-SOC/tree/main
 
 <h2> 🤳 Connect with me:</h2>
 
